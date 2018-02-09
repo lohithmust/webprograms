@@ -29,7 +29,7 @@ public class SumOfDouble {
 	    		b *= 2 ;
 	    	}
 	    	return sum;
-	    	
+	   
 	    	
 	    	
 	    }
